@@ -1,7 +1,7 @@
 # Network-Intrusion-Detection-system
 Machine learning-based network intrusion detection research project using Machine Learning 
 
-# AI-Driven Network Intrusion Detection System
+# Network Intrusion Detection System Using Machine Learning
 
 ## Overview
 This project investigates the use of machine learning algorithms for detecting malicious network activity.
